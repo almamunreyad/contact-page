@@ -1,0 +1,80 @@
+body{
+    margin: 100px auto;
+    background-image: url(images/dc.jpg);
+    background-size: cover;
+}
+.about-form{
+    width: 1080px;
+    margin: 120px auto;
+    background-color: rgba(0, 0, 0, .3);
+    padding: 40px 20px;
+    border-radius: 5px;
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+  }
+ .card{
+      background: transparent;
+  }
+  
+
+
+.first-text{
+   border-bottom: 3px dotted white;
+    margin-bottom: 5px;
+}
+.card-group{
+    width: 1080px;
+}
+.card{
+    border: none;
+   
+}
+.reg-form{
+    width: 500px;
+   
+}
+.card-body{
+    width: 500px;
+    margin-left: 30px;
+   
+    
+}
+
+.card-body ul li{
+    text-decoration: none;
+    display: block;
+    margin-bottom: 10px;
+   
+}
+.line{
+    background-color: white;
+    height: 2px;
+    width: 280px;
+    margin-left: 150px;
+}
+.link{
+    margin-bottom: 150px;
+    margin-left: 218px;
+}
+.link ul li{
+    text-decoration: none;
+    display: block;
+    float: left;
+
+}
+.col-12{
+    margin-left: 205px;
+}
+
+
+
+
+
+
+
+
+
